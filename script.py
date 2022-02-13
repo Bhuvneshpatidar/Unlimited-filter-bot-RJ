@@ -3,7 +3,9 @@ class Script(object):
     START_MSG = """<b>Hello {} How are you🌹,
 
 I'm an advanced filter bot with many capabilities!
-Edit By @godexop
+ Join telegram group @godexop
+ Join instagram @godexyt
+Edit By @Bhuvneshpatel
 
 See <i>/help</i> for commands and more details.</b>
 """
